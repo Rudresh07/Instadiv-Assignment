@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346860616788",
+    "project_id": "instadiv-11009",
+    "storage_bucket": "instadiv-11009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346860616788:android:485d8b415630dd8388c1c1",
+        "android_client_info": {
+          "package_name": "com.rudy.instadiv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvCz7dnLcbnduJp9z3QkiMvlgAnC3T0-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
